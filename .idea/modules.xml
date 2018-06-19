@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hellosceneform.iml" filepath="$PROJECT_DIR$/hellosceneform.iml" />
       <module fileurl="file://$PROJECT_DIR$/openCVLibrary341/openCVLibrary341.iml" filepath="$PROJECT_DIR$/openCVLibrary341/openCVLibrary341.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stormtrooperAR.iml" filepath="$PROJECT_DIR$/stormtrooperAR.iml" />
     </modules>
   </component>
 </project>
