@@ -147,7 +147,7 @@ public class SceneformActivity extends AppCompatActivity {
 
                     else //model == 2
                         anchor = anchor = hitResult.getTrackable().createAnchor(
-                                hitResult.getHitPose().compose(Pose.makeTranslation(0, -0.13f, 0f)));
+                                hitResult.getHitPose().compose(Pose.makeTranslation(2f, -3f, -2f)));
 
 
                     // Create the Anchor.
